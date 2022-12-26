@@ -1,5 +1,5 @@
 # RevelTek-Research
 
-### Were doing Research for Reveltek 
+### Were doing Research for Reveltek.
 
-Welcome to Reveltek
+Welcome to Reveltek.
