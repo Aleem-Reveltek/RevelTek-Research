@@ -27,7 +27,7 @@ my name is lakan
 </dt>
 </dl>
 
-I'm working here more<br> ***then ten dollor***
+I'm working here more<br> then ten dollor
 
 - [x] Make it interesting
 - [x] how are you
@@ -47,4 +47,3 @@ Posts are typically displayed
 - [x] that the most recent post
 - [x] that the most recent post
 - [x] that the most recent post
-
