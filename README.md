@@ -48,5 +48,3 @@ Posts are typically displayed
 - [x] that the most recent post
 - [x] that the most recent post
 
-- h
-
